@@ -1,5 +1,5 @@
 //  Error Message
-function errorMsg(message) {
+export const errorMsg = (message) => {
     document.querySelector('.warning').textContent = message;
     setTimeout(() => {
       document.querySelector('.warning').textContent = '';
