@@ -2,7 +2,7 @@
 
 This project is an website that displays a list of books that users have added.It allows you to add and remove books from that list also. The goal of this project is to build a simple multipage page responsive book website.
 
-In this project, I setup Html-CSS-Javascript linter following the guildlines stated in the Html-CSS-Javascript linter config documentation, I followed mobile first approach while building the website, made the website responsive on mobile and desktop, made the website interactive, ran tests and finally deployed the app to github pages.
+In this project, I setup Html-CSS-Javascript linter following the guidelines stated in the Html-CSS-Javascript linter config documentation, I followed mobile first approach while building the website, made the website responsive on mobile and desktop, made the website interactive, ran tests and finally deployed the app to github pages.
 
 The project contains the List, Add and Contact page.
 
